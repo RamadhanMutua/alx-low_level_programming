@@ -1,2 +1,1 @@
-#!/bin/bash
-C hello world
+Low level programming
