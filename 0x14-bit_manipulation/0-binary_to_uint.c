@@ -1,4 +1,3 @@
-// Include the "main.h" header file
 #include "main.h"
 
 /**
